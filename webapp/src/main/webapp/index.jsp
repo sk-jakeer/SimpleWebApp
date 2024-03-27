@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart shopping website</title>
+    <title>Trends shopping place</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Laptop & Mobile 90% Off available till 31st March 2024 **** </h1>   
+         <h1> **** Boran Boran clothes 900 pair RAMAZAN offer**** </h1>   
 	 
 
     </section>    
