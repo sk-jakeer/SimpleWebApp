@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Trends shopping place</title>
+    <title>WALL MART PLACE</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Boran Boran clothes 900 pair RAMAZAN offer**** </h1>   
+         <h1> **** PREMIUM CLOTHES **** </h1>   
 	 
 
     </section>    
